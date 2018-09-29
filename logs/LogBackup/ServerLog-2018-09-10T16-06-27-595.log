@@ -1,0 +1,26 @@
+=== Started 2018-09-10T13-53-00-739 ===
+[INFO ][13:53:00] 418 bad words loaded
+[WARN ][13:53:00] User account "Local Administrator" disabled
+[WARN ][13:53:00] User account "Local Moderator" disabled
+[WARN ][13:53:00] User account "Local User" disabled
+[INFO ][13:53:00] 0 user records loaded.
+[INFO ][13:53:00] 0 IP ban records loaded.
+[INFO ][13:53:00] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:53:00] WebSocket: ws
+[INFO ][13:53:00] Started stats server on port 1110
+[INFO ][13:53:00] Listening on port 1111
+[INFO ][13:53:00] Current game mode is Free For All
+[NONE ][13:53:00]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:55:57] CONNECTED 10.2.0.5:60203, origin: "http://radthiek.byethost14.com"
+[NONE ][13:56:29] CONNECTED 10.2.0.5:34617, origin: "http://radthiek.byethost14.com"
+[NONE ][13:56:37] DISCONNECTED 10.2.0.5:34617, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][13:56:40] CONNECTED 10.2.0.5:35475, origin: "http://radthiek.byethost14.com"
+[NONE ][13:56:54] DISCONNECTED 10.2.0.5:35475, code: 1006, reason: "", name: "{13} "
+[NONE ][13:57:04] DISCONNECTED 10.2.0.5:60203, code: 1001, reason: "", name: "{13} "
+[NONE ][14:29:11] CONNECTED 10.2.0.5:55215, origin: "http://www.radthiek.byethost14.com"
+[NONE ][14:30:36] DISCONNECTED 10.2.0.5:55215, code: 1001, reason: "", name: "An unnamed cell"

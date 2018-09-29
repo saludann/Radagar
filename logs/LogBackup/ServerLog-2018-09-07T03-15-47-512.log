@@ -1,0 +1,180 @@
+=== Started 2018-09-06T15-13-05-601 ===
+[INFO ][15:13:05] 418 bad words loaded
+[WARN ][15:13:05] User account "Local Administrator" disabled
+[WARN ][15:13:05] User account "Local Moderator" disabled
+[WARN ][15:13:05] User account "Local User" disabled
+[INFO ][15:13:05] 0 user records loaded.
+[INFO ][15:13:05] 0 IP ban records loaded.
+[INFO ][15:13:05] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:13:05] WebSocket: ws
+[INFO ][15:13:05] Started stats server on port 2220
+[INFO ][15:13:05] Listening on port 2222
+[INFO ][15:13:05] Current game mode is Experimental
+[INFO ][15:13:05] Added 5 player bots
+[NONE ][15:13:05]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:14:13] CONNECTED 10.1.0.8:55363, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:15:03] DISCONNECTED 10.1.0.8:55363, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:17:58] CONNECTED 10.1.0.8:43854, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:18:09] >حم
+[WARN ][15:18:09] Invalid Command!
+[NONE ][15:18:12] >حم
+[WARN ][15:18:12] Invalid Command!
+[NONE ][15:18:14] >pl
+[NONE ][15:18:14] 
+Current players: 6
+[NONE ][15:18:14] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:18:14]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:18:14] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:18:14]       1 | [BOT]           | ? |     4 |    837 | -1653,  1302 | Equipo ?            
+[NONE ][15:18:14]       2 | [BOT]           | ? |     1 |    359 | -5267,  1585 | 水raio makuin神       
+[NONE ][15:18:14]       3 | [BOT]           | ? |     1 |    371 |  5291,  3826 | ♔ℱϟ♀℘♔❥→ƒяσn0s㋡     
+[NONE ][15:18:14]       4 | [BOT]           | ? |     1 |    521 |  4988,  6956 | JUJU ONDAT BEAT     
+[NONE ][15:18:14]       5 | [BOT]           | ? |     1 |    518 | -6579,  -980 | [桜翁秋] Ninja         
+[NONE ][15:18:14]       7 | 10.1.0.8        | 6 | ---------------------------------DEAD OR NOT PLAYING
+[NONE ][15:18:33] >mass 7 10000
+[NONE ][15:18:33] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000.000
+[NONE ][15:22:09] CONNECTED 10.1.0.8:33984, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:22:14] CONNECTED 10.1.0.8:34201, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:22:30] DISCONNECTED 10.1.0.8:33984, code: 1006, reason: "", name: "An unnamed cell"
+[NONE ][15:23:38] DISCONNECTED 10.1.0.8:43854, code: 1006, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:23:39] CONNECTED 10.1.0.8:39775, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:28:26] >mass 7 100000000
+[WARN ][15:28:26] That player ID is non-existant!
+[NONE ][15:28:35] >restrat
+[WARN ][15:28:35] Invalid Command!
+[NONE ][15:28:41] >restart
+[WARN ][15:28:41] Restarting server...
+[NONE ][15:28:41] DISCONNECTED 10.1.0.8:39775, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:28:41] DISCONNECTED 10.1.0.8:34201, code: 1005, reason: "", name: "!.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅"
+[NONE ][15:28:43] CONNECTED 10.1.0.8:32856, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:28:44] CONNECTED 10.1.0.8:32869, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:28:52] >pl
+[NONE ][15:28:52] 
+Current players: 2
+[NONE ][15:28:52] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:28:52]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:28:52] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:28:52]       1 | 10.1.0.8        | 6 |     1 |    398 | -5335,  1561 | {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ
+[NONE ][15:28:52]       2 | 10.1.0.8        | 6 |     1 |    401 | -5482,  3376 | !.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅
+[NONE ][15:28:57] >mass 1 10000000000
+[NONE ][15:28:57] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000000000.000
+[NONE ][15:29:16] >restart
+[WARN ][15:29:16] Restarting server...
+[NONE ][15:29:16] DISCONNECTED 10.1.0.8:32869, code: 1006, reason: "", name: "!.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅"
+[NONE ][15:29:16] DISCONNECTED 10.1.0.8:32869, code: 1006, reason: "", name: "!.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅"
+[NONE ][15:29:16] DISCONNECTED 10.1.0.8:32856, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:29:18] CONNECTED 10.1.0.8:35131, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:29:19] CONNECTED 10.1.0.8:35183, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:29:21] >pl
+[NONE ][15:29:21] 
+Current players: 2
+[NONE ][15:29:21] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:29:21]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:29:21] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:29:21]       1 | 10.1.0.8        | 6 |     1 |    399 | -2217,  1465 | !.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅
+[NONE ][15:29:21]       2 | 10.1.0.8        | 6 | ---------------------------------DEAD OR NOT PLAYING
+[NONE ][15:29:33] >mass 2 10000
+[NONE ][15:29:33] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000.000
+[NONE ][15:29:42] >mass 2 100000
+[NONE ][15:29:42] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 100000.000
+[NONE ][15:30:04] >restart
+[WARN ][15:30:04] Restarting server...
+[NONE ][15:30:04] DISCONNECTED 10.1.0.8:35183, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:30:04] DISCONNECTED 10.1.0.8:35131, code: 1005, reason: "", name: "!.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅"
+[NONE ][15:30:07] CONNECTED 10.1.0.8:38251, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:30:07] CONNECTED 10.1.0.8:38264, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:30:16] >pl
+[NONE ][15:30:16] 
+Current players: 2
+[NONE ][15:30:16] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:30:16]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:30:16] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:30:16]       1 | 10.1.0.8        | 6 |     1 |    403 | -5737, -6567 | {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ
+[NONE ][15:30:16]       2 | 10.1.0.8        | 6 |     1 |    397 | -5555, -4618 | !.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅
+[NONE ][15:30:23] >mass 1 10000
+[NONE ][15:30:23] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000.000
+[NONE ][15:30:24] CONNECTED 10.1.0.8:39592, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:32:52] >pl
+[NONE ][15:32:52] 
+Current players: 3
+[NONE ][15:32:52] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:32:52]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:32:52] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:32:52]       1 | 10.1.0.8        | 6 |     2 |    417 |  2356,   612 | {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ
+[NONE ][15:32:52]       2 | 10.1.0.8        | 6 |     2 |   7688 | -1534, -3023 | !.𝓖𝓧⎝ c̅н̅σ̅ĸ̅ℓ̅є̅
+[NONE ][15:32:52]       3 | 10.1.0.8        | 6 |     7 |    178 |  -374,  -217 | {kraken}            
+[NONE ][15:33:00] >mass 3 10000
+[NONE ][15:33:00] Set mass of {kraken} to 10000.000
+[NONE ][15:33:10] >mass 1 10000
+[NONE ][15:33:10] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000.000
+[NONE ][15:33:50] DISCONNECTED 10.1.0.8:38251, code: 1006, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:33:51] CONNECTED 10.1.0.8:54272, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:33:56] DISCONNECTED 10.1.0.8:54272, code: 1006, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:33:58] CONNECTED 10.1.0.8:54825, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:34:23] >pl
+[NONE ][15:34:23] 
+Current players: 3
+[NONE ][15:34:23] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:34:23]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][15:34:23] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:34:23]       2 | 10.1.0.8        | 6 | --------------------------------SPECTATING: {kraken}
+[NONE ][15:34:23]       3 | 10.1.0.8        | 6 |    45 | 178335 |    88,    43 | {kraken}            
+[NONE ][15:34:23]       5 | 10.1.0.8        | 6 |     6 |    380 |  1122,  -249 | {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ
+[NONE ][15:34:32] >mass 5 10000
+[NONE ][15:34:32] Set mass of {wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ to 10000.000
+[NONE ][15:38:19] DISCONNECTED 10.1.0.8:54825, code: 1001, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:38:20] CONNECTED 10.1.0.8:44112, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:39:06] >restart.
+[WARN ][15:39:06] Invalid Command!
+[NONE ][15:39:11] >restart
+[WARN ][15:39:11] Restarting server...
+[NONE ][15:39:11] DISCONNECTED 10.1.0.8:44112, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:39:11] DISCONNECTED 10.1.0.8:38264, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][15:39:12] DISCONNECTED 10.1.0.8:39592, code: 1005, reason: "", name: "{kraken}"
+[NONE ][15:39:14] CONNECTED 10.1.0.8:47465, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:39:14] CONNECTED 10.1.0.8:47511, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:39:14] CONNECTED 10.1.0.8:47540, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:39:30] DISCONNECTED 10.1.0.8:47465, code: 1001, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:39:31] CONNECTED 10.1.0.8:48586, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:44:13] DISCONNECTED 10.1.0.8:48586, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:44:23] CONNECTED 10.1.0.8:40336, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:45:00] DISCONNECTED 10.1.0.8:40336, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:45:19] CONNECTED 10.1.0.8:44211, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:45:47] DISCONNECTED 10.1.0.8:44211, code: 1005, reason: "", name: "An unnamed cell"
+[NONE ][15:46:44] DISCONNECTED 10.1.0.8:47540, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][15:48:57] DISCONNECTED 10.1.0.8:47511, code: 1006, reason: "", name: "{kraken}"
+[NONE ][15:50:19] CONNECTED 10.1.0.8:37524, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:50:19] CONNECTED 10.1.0.8:37538, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:50:32] DISCONNECTED 10.1.0.8:37538, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][15:50:39] CONNECTED 10.1.0.8:39042, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:52:03] DISCONNECTED 10.1.0.8:39042, code: 1005, reason: "", name: ""
+[NONE ][15:52:14] CONNECTED 10.1.0.8:45370, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:52:39] DISCONNECTED 10.1.0.8:45370, code: 1001, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][15:52:50] CONNECTED 10.1.0.8:47872, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:54:47] DISCONNECTED 10.1.0.8:37524, code: 1005, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:54:57] CONNECTED 10.1.0.8:55908, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:55:20] CONNECTED 10.1.0.8:57703, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:55:48] DISCONNECTED 10.1.0.8:47872, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][15:55:54] CONNECTED 10.1.0.8:60595, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:56:10] DISCONNECTED 10.1.0.8:57703, code: 1006, reason: "", name: ""
+[NONE ][15:57:42] DISCONNECTED 10.1.0.8:55908, code: 1006, reason: "", name: "{wolf}❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱ"
+[NONE ][15:57:44] CONNECTED 10.1.0.8:39454, origin: "http://www.radthiek.byethost16.com"
+[NONE ][16:01:54] DISCONNECTED 10.1.0.8:39454, code: 1006, reason: "", name: ""
+[NONE ][16:02:55] DISCONNECTED 10.1.0.8:60595, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][16:03:52] CONNECTED 10.1.0.8:36659, origin: "http://www.radthiek.byethost16.com"
+[NONE ][16:04:05] DISCONNECTED 10.1.0.8:36659, code: 1001, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][16:13:49] CONNECTED 10.1.0.8:50300, origin: "http://www.radthiek.byethost16.com"
+[NONE ][16:14:29] DISCONNECTED 10.1.0.8:50300, code: 1005, reason: "", name: "An unnamed cell"
+[NONE ][16:14:41] CONNECTED 10.1.0.8:53880, origin: "http://www.radthiek.byethost16.com"
+[NONE ][16:14:52] DISCONNECTED 10.1.0.8:53880, code: 1001, reason: "", name: "An unnamed cell"

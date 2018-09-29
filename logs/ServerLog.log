@@ -1,0 +1,18 @@
+=== Started 2018-09-15T08-54-04-640 ===
+[INFO ][08:54:04] 418 bad words loaded
+[WARN ][08:54:04] User account "Local Administrator" disabled
+[WARN ][08:54:04] User account "Local Moderator" disabled
+[WARN ][08:54:04] User account "Local User" disabled
+[INFO ][08:54:04] 0 user records loaded.
+[INFO ][08:54:04] 0 IP ban records loaded.
+[INFO ][08:54:04] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][08:54:04] WebSocket: ws
+[INFO ][08:54:04] Started stats server on port 1110
+[INFO ][08:54:04] Listening on port 1111
+[INFO ][08:54:04] Current game mode is Free For All
+[NONE ][08:54:04]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           

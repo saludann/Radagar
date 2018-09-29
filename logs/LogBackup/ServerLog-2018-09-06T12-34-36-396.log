@@ -1,0 +1,14 @@
+=== Started 2018-09-06T12-31-58-108 ===
+[INFO ][12:31:58] 418 bad words loaded
+[WARN ][12:31:58] User account "Local Administrator" disabled
+[WARN ][12:31:58] User account "Local Moderator" disabled
+[WARN ][12:31:58] User account "Local User" disabled
+[INFO ][12:31:58] 0 user records loaded.
+[INFO ][12:31:58] 0 IP ban records loaded.
+[INFO ][12:31:58] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:31:58] WebSocket: ws
+[INFO ][12:31:58] Started stats server on port 1102
+[ERROR][12:31:58] WebSocket: EACCES - listen EACCES 0.0.0.0:1002
+[ERROR][12:31:58] Please make sure you are running MultiOgar-Edited with root privileges.
+[DEBUG][12:31:58] process.exit(1)
+=== Shutdown 2018-09-06T12-31-58-194 ===

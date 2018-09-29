@@ -1,0 +1,15 @@
+=== Started 2018-09-06T07-19-17-174 ===
+[INFO ][07:19:17] 418 bad words loaded
+[WARN ][07:19:17] User account "Local Administrator" disabled
+[WARN ][07:19:17] User account "Local Moderator" disabled
+[WARN ][07:19:17] User account "Local User" disabled
+[INFO ][07:19:17] 0 user records loaded.
+[INFO ][07:19:17] 0 IP ban records loaded.
+[INFO ][07:19:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][07:19:17] WebSocket: ws
+[INFO ][07:19:17] Started stats server on port 3333
+[ERROR][07:19:17] WebSocket: EADDRINUSE - listen EADDRINUSE 0.0.0.0:3333
+[ERROR][07:19:17] Server could not bind to port 3333!
+[ERROR][07:19:17] Please close out of Skype or change 'serverPort' in gameserver.ini to a different number.
+[DEBUG][07:19:17] process.exit(1)
+=== Shutdown 2018-09-06T07-19-17-263 ===

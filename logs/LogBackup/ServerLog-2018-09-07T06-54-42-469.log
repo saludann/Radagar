@@ -1,0 +1,38 @@
+=== Started 2018-09-07T06-06-52-987 ===
+[INFO ][06:06:53] 418 bad words loaded
+[WARN ][06:06:53] User account "Local Administrator" disabled
+[WARN ][06:06:53] User account "Local Moderator" disabled
+[WARN ][06:06:53] User account "Local User" disabled
+[INFO ][06:06:53] 0 user records loaded.
+[INFO ][06:06:53] 0 IP ban records loaded.
+[INFO ][06:06:53] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][06:06:53] WebSocket: ws
+[INFO ][06:06:53] Started stats server on port 1110
+[INFO ][06:06:53] Listening on port 1111
+[INFO ][06:06:53] Current game mode is Free For All
+[NONE ][06:06:53]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][06:07:04] CONNECTED 10.2.0.5:37216, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:07:35] DISCONNECTED 10.2.0.5:37216, code: 1001, reason: "", name: "{13} "
+[NONE ][06:07:42] CONNECTED 10.2.0.5:41474, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:08:44] DISCONNECTED 10.2.0.5:41474, code: 1006, reason: "", name: "{stat} "
+[NONE ][06:11:41] CONNECTED 10.2.0.5:40468, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:13:14] CONNECTED 10.2.0.5:51211, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:15:18] DISCONNECTED 10.2.0.5:40468, code: 1006, reason: "", name: ""
+[NONE ][06:16:29] DISCONNECTED 10.2.0.5:51211, code: 1006, reason: "", name: ""
+[NONE ][06:18:33] CONNECTED 10.2.0.5:59228, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:19:03] DISCONNECTED 10.2.0.5:59228, code: 1001, reason: "", name: "{13} ddd"
+[NONE ][06:19:08] CONNECTED 10.2.0.5:34888, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:20:01] DISCONNECTED 10.2.0.5:34888, code: 1006, reason: "", name: "{stat} "
+[NONE ][06:21:59] CONNECTED 10.2.0.5:53832, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:25:08] CONNECTED 10.2.0.5:47465, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:26:07] DISCONNECTED 10.2.0.5:47465, code: 1001, reason: "", name: ""
+[NONE ][06:26:09] DISCONNECTED 10.2.0.5:53832, code: 1006, reason: "", name: ""
+[NONE ][06:26:18] CONNECTED 10.2.0.5:55427, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:29:47] DISCONNECTED 10.2.0.5:55427, code: 1001, reason: "", name: "{13} "
+[NONE ][06:29:55] CONNECTED 10.2.0.5:52444, origin: "http://www.radthiekg.byethost5.com"
+[NONE ][06:35:59] DISCONNECTED 10.2.0.5:52444, code: 1006, reason: "", name: "{stat} RadAgar"

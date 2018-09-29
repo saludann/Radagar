@@ -1,0 +1,49 @@
+=== Started 2018-09-10T16-23-20-389 ===
+[INFO ][16:23:20] 418 bad words loaded
+[WARN ][16:23:20] User account "Local Administrator" disabled
+[WARN ][16:23:20] User account "Local Moderator" disabled
+[WARN ][16:23:20] User account "Local User" disabled
+[INFO ][16:23:20] 0 user records loaded.
+[INFO ][16:23:20] 0 IP ban records loaded.
+[INFO ][16:23:20] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:23:20] WebSocket: ws
+[INFO ][16:23:20] Started stats server on port 1110
+[INFO ][16:23:20] Listening on port 1111
+[INFO ][16:23:20] Current game mode is Free For All
+[NONE ][16:23:20]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][16:23:26] CONNECTED 10.2.0.5:58446, origin: "http://radthiek.byethost14.com"
+[NONE ][16:23:28] CONNECTED 10.2.0.5:58567, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:27:12] DISCONNECTED 10.2.0.5:58567, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][16:28:38] >حم
+[WARN ][16:28:38] Invalid Command!
+[NONE ][16:28:40] >pl
+[NONE ][16:28:40] 
+Current players: 1
+[NONE ][16:28:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][16:28:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][16:28:40] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][16:28:40]       1 | 10.2.0.5        | 6 |     2 |    813 | -3520, -2404 | {Pythor}            
+[NONE ][16:28:43] >mass
+[WARN ][16:28:43] Please specify a valid player ID!
+[NONE ][16:28:49] >mass 1 100000
+[NONE ][16:28:49] Set mass of {Pythor} to 100000.000
+[NONE ][16:29:41] CONNECTED 10.2.0.5:60136, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:36:32] CONNECTED 10.2.0.5:37567, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:36:45] DISCONNECTED 10.2.0.5:37567, code: 1001, reason: "", name: "{Pythor} "
+[NONE ][16:37:31] CONNECTED 10.2.0.5:42284, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:37:39] DISCONNECTED 10.2.0.5:42284, code: 1005, reason: "", name: "{seraj-1} "
+[NONE ][16:37:41] CONNECTED 10.2.0.5:43116, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:40:40] DISCONNECTED 10.2.0.5:43116, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][16:40:50] CONNECTED 10.2.0.5:58580, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:41:45] DISCONNECTED 10.2.0.5:58580, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][16:42:16] CONNECTED 10.2.0.5:37289, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:43:54] DISCONNECTED 10.2.0.5:37289, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][16:55:47] DISCONNECTED 10.2.0.5:58446, code: 1001, reason: "", name: "{13} رادافار"
+[NONE ][17:25:43] DISCONNECTED 10.2.0.5:60136, code: 1001, reason: "", name: "{13} "
+[NONE ][18:08:40] CONNECTED 10.2.0.5:38684, origin: "http://www.radthiek.byethost14.com"

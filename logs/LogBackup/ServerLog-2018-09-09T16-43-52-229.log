@@ -1,0 +1,36 @@
+=== Started 2018-09-09T16-24-19-777 ===
+[INFO ][16:24:19] 418 bad words loaded
+[WARN ][16:24:19] User account "Local Administrator" disabled
+[WARN ][16:24:19] User account "Local Moderator" disabled
+[WARN ][16:24:19] User account "Local User" disabled
+[INFO ][16:24:19] 0 user records loaded.
+[INFO ][16:24:19] 0 IP ban records loaded.
+[INFO ][16:24:19] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:24:19] WebSocket: ws
+[INFO ][16:24:19] Started stats server on port 1110
+[INFO ][16:24:19] Listening on port 1111
+[INFO ][16:24:19] Current game mode is Free For All
+[NONE ][16:24:20]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][16:24:28] CONNECTED 10.2.0.5:50816, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:24:42] DISCONNECTED 10.2.0.5:50816, code: 1001, reason: "", name: "wolf2"
+[NONE ][16:24:50] CONNECTED 10.2.0.5:52535, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:24:54] DISCONNECTED 10.2.0.5:52535, code: 1001, reason: "", name: "wojak"
+[NONE ][16:24:57] CONNECTED 10.2.0.5:53130, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:25:49] DISCONNECTED 10.2.0.5:53130, code: 1001, reason: "", name: "doge"
+[NONE ][16:29:05] CONNECTED 10.2.0.5:44971, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:29:18] DISCONNECTED 10.2.0.5:44971, code: 1001, reason: "", name: "5"
+[NONE ][16:29:21] CONNECTED 10.2.0.5:46234, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:32:26] DISCONNECTED 10.2.0.5:46234, code: 1001, reason: "", name: "wojak"
+[NONE ][16:32:33] CONNECTED 10.2.0.5:33432, origin: "http://radthiek.ihostfull.com"
+[NONE ][16:33:02] DISCONNECTED 10.2.0.5:33432, code: 1001, reason: "", name: "wojak"
+[NONE ][16:39:03] CONNECTED 10.2.0.5:36851, origin: "http://www.radthiek.byethost14.com"
+[NONE ][16:39:05] DISCONNECTED 10.2.0.5:36851, code: 1001, reason: "", name: ""
+[NONE ][16:41:25] CONNECTED 10.2.0.5:48176, origin: "http://radthiek.byethost14.com"
+[NONE ][16:41:31] DISCONNECTED 10.2.0.5:48176, code: 1001, reason: "", name: ""
+[NONE ][16:41:35] CONNECTED 10.2.0.5:49023, origin: "http://radthiek.byethost14.com"
+[NONE ][16:41:39] DISCONNECTED 10.2.0.5:49023, code: 1001, reason: "", name: ""

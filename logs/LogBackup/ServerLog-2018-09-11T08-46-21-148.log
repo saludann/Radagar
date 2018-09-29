@@ -1,0 +1,154 @@
+=== Started 2018-09-11T06-15-36-188 ===
+[INFO ][06:15:36] 418 bad words loaded
+[WARN ][06:15:36] User account "Local Administrator" disabled
+[WARN ][06:15:36] User account "Local Moderator" disabled
+[WARN ][06:15:36] User account "Local User" disabled
+[INFO ][06:15:36] 0 user records loaded.
+[INFO ][06:15:36] 0 IP ban records loaded.
+[INFO ][06:15:36] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][06:15:36] WebSocket: ws
+[INFO ][06:15:36] Started stats server on port 1110
+[INFO ][06:15:36] Listening on port 1111
+[INFO ][06:15:36] Current game mode is Free For All
+[NONE ][06:15:36]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][06:15:42] CONNECTED 10.1.0.4:39475, origin: "http://radthiek.byethost14.com"
+[NONE ][06:16:12] DISCONNECTED 10.1.0.4:39475, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][06:16:33] CONNECTED 10.1.0.4:40444, origin: "http://www.radthiek.byethost14.com"
+[NONE ][06:16:54] DISCONNECTED 10.1.0.4:40444, code: 1005, reason: "", name: "{seraj-1} "
+[NONE ][06:16:56] CONNECTED 10.1.0.4:41021, origin: "http://www.radthiek.byethost14.com"
+[NONE ][06:16:57] DISCONNECTED 10.1.0.4:41021, code: 1005, reason: "", name: ""
+[NONE ][06:16:57] CONNECTED 10.1.0.4:41032, origin: "http://www.radthiek.byethost14.com"
+[NONE ][06:17:17] DISCONNECTED 10.1.0.4:41032, code: 1001, reason: "", name: "{Pythor} "
+[NONE ][06:17:21] CONNECTED 10.1.0.4:41467, origin: "http://radthiek.byethost14.com"
+[NONE ][06:19:32] DISCONNECTED 10.1.0.4:41467, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][06:20:44] CONNECTED 10.1.0.4:45636, origin: "http://radthiek.byethost14.com"
+[NONE ][06:21:51] CONNECTED 10.1.0.4:47105, origin: "http://radthiek.byethost14.com"
+[NONE ][06:22:05] DISCONNECTED 10.1.0.4:47105, code: 1001, reason: "", name: "{13} رادافار"
+[NONE ][06:22:17] >pl
+[NONE ][06:22:17] 
+Current players: 1
+[NONE ][06:22:17] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][06:22:17]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][06:22:17] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][06:22:17]       6 | 10.1.0.4        | 6 |     1 |    399 |  2440,  4511 | {123}               
+[NONE ][06:22:23] >mass 6 10000
+[NONE ][06:22:23] Set mass of {123} to 10000.000
+[NONE ][06:22:29] >minion 6 100
+[NONE ][06:22:29] Added 100 minions for {123}
+[NONE ][06:24:31] DISCONNECTED 10.1.0.4:45636, code: 1001, reason: "", name: "{123} "
+[NONE ][06:24:44] CONNECTED 10.1.0.4:50364, origin: "http://radthiek.ihostfull.com"
+[NONE ][06:24:44] DISCONNECTED 10.1.0.4:50364, code: 1006, reason: "", name: ""
+[NONE ][06:24:44] CONNECTED 10.1.0.4:50373, origin: "http://radthiek.ihostfull.com"
+[NONE ][06:26:36] DISCONNECTED 10.1.0.4:50373, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ%*^"
+[NONE ][06:28:31] CONNECTED 10.1.0.4:54110, origin: "http://radthiek.byethost14.com"
+[NONE ][06:28:38] DISCONNECTED 10.1.0.4:54110, code: 1001, reason: "", name: ""
+[NONE ][06:28:44] CONNECTED 10.1.0.4:54345, origin: "http://radthiek.byethost14.com"
+[NONE ][06:28:53] >pl
+[NONE ][06:28:53] 
+Current players: 1
+[NONE ][06:28:53] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][06:28:53]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][06:28:53] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][06:28:53]     111 | 10.1.0.4        | 6 |     1 |    419 | -6723, -3245 | {Pythor}            
+[NONE ][06:28:59] >mass 111 10000000
+[NONE ][06:28:59] Set mass of {Pythor} to 10000000.000
+[NONE ][06:32:08] >restart
+[WARN ][06:32:08] Restarting server...
+[NONE ][06:32:08] DISCONNECTED 10.1.0.4:54345, code: 1005, reason: "", name: "{Pythor} "
+[NONE ][06:32:10] CONNECTED 10.1.0.4:58181, origin: "http://radthiek.byethost14.com"
+[NONE ][06:32:19] >pl
+[NONE ][06:32:19] 
+Current players: 1
+[NONE ][06:32:19] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][06:32:19]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][06:32:19] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][06:32:19]       1 | 10.1.0.4        | 6 |     1 |    397 |   391, -1126 | {Pythor}            
+[NONE ][06:32:24] >mass 1 10000
+[NONE ][06:32:24] Set mass of {Pythor} to 10000.000
+[NONE ][06:33:57] DISCONNECTED 10.1.0.4:58181, code: 1001, reason: "", name: "{Pythor} "
+[NONE ][06:34:45] CONNECTED 10.1.0.4:32776, origin: "http://radthiek.byethost14.com"
+[NONE ][06:34:57] >pl
+[NONE ][06:34:57] 
+Current players: 1
+[NONE ][06:34:57] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][06:34:57]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][06:34:57] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][06:34:57]       2 | 10.1.0.4        | 6 |     1 |    439 | -3795, -6299 | {seraj-1}           
+[NONE ][06:35:03] >minion 2 1000
+[NONE ][06:35:03] Added 1000 minions for {seraj-1}
+[NONE ][06:37:02] DISCONNECTED 10.1.0.4:32776, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][06:38:07] CONNECTED 10.1.0.4:36547, origin: "http://radthiek.byethost14.com"
+[NONE ][06:38:33] CONNECTED 10.1.0.4:37003, origin: "http://radthiek.byethost14.com"
+[NONE ][06:39:12] DISCONNECTED 10.1.0.4:36547, code: 1001, reason: "", name: "{13} "
+[NONE ][06:40:06] DISCONNECTED 10.1.0.4:37003, code: 1005, reason: "", name: "An unnamed cell"
+[NONE ][06:43:59] CONNECTED 10.1.0.4:42951, origin: "http://radthiek.byethost14.com"
+[NONE ][06:44:09] CONNECTED 10.1.0.4:43122, origin: "http://radthiek.byethost14.com"
+[NONE ][06:44:20] DISCONNECTED 10.1.0.4:43122, code: 1001, reason: "", name: "{123} "
+[NONE ][06:44:24] DISCONNECTED 10.1.0.4:42951, code: 1001, reason: "", name: ""
+[NONE ][06:45:50] CONNECTED 10.1.0.4:44957, origin: "http://radthiek.byethost14.com"
+[NONE ][06:45:52] CONNECTED 10.1.0.4:44988, origin: "http://radthiek.byethost14.com"
+[NONE ][06:47:30] DISCONNECTED 10.1.0.4:44988, code: 1001, reason: "", name: "{123}  【≽ᗷᑌᖇᑎᗴᖇ__آإل"
+[NONE ][06:47:32] CONNECTED 10.1.0.4:46814, origin: "http://radthiek.byethost14.com"
+[NONE ][06:47:36] DISCONNECTED 10.1.0.4:46814, code: 1005, reason: "", name: ""
+[NONE ][06:47:38] CONNECTED 10.1.0.4:46932, origin: "http://radthiek.byethost14.com"
+[NONE ][06:47:39] CONNECTED 10.1.0.4:46950, origin: "http://radthiek.byethost14.com"
+[NONE ][06:48:28] >حم
+[WARN ][06:48:28] Invalid Command!
+[NONE ][06:48:30] DISCONNECTED 10.1.0.4:46932, code: 1001, reason: "", name: "{123}  【≽ᗷᑌᖇᑎᗴᖇ__آإل"
+[NONE ][06:48:30] >pl
+[NONE ][06:48:30] 
+Current players: 2
+[NONE ][06:48:30] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][06:48:30]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][06:48:30] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][06:48:30]    1007 | 10.1.0.4        | 6 |     8 |    979 |  -570,   549 | CRaYzY Is BaCk      
+[NONE ][06:48:30]    1011 | 10.1.0.4        | 6 |     4 |    450 |   438,  -378 | {Pythor}            
+[NONE ][06:48:36] CONNECTED 10.1.0.4:48034, origin: "http://radthiek.byethost14.com"
+[NONE ][06:48:42] >mass 1007 1000
+[NONE ][06:48:42] Set mass of CRaYzY Is BaCk to 1000.000
+[NONE ][06:48:51] >mass 1011 10000
+[NONE ][06:48:51] Set mass of {Pythor} to 10000.000
+[NONE ][06:53:16] DISCONNECTED 10.1.0.4:46950, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][06:53:20] CONNECTED 10.1.0.4:53351, origin: "http://radthiek.byethost14.com"
+[NONE ][06:58:15] DISCONNECTED 10.1.0.4:48034, code: 1001, reason: "", name: "{123}  【≽ᗷᑌᖇᑎᗴᖇ__آإل"
+[NONE ][07:01:12] CONNECTED 10.1.0.4:34118, origin: "http://radthiek.byethost14.com"
+[NONE ][07:01:23] CONNECTED 10.1.0.4:34297, origin: "http://radthiek.byethost14.com"
+[NONE ][07:01:25] DISCONNECTED 10.1.0.4:34297, code: 1005, reason: "", name: "لفلف"
+[NONE ][07:01:27] CONNECTED 10.1.0.4:34351, origin: "http://radthiek.byethost14.com"
+[NONE ][07:01:40] DISCONNECTED 10.1.0.4:34351, code: 1005, reason: "", name: "لفلف"
+[NONE ][07:01:42] CONNECTED 10.1.0.4:34619, origin: "http://radthiek.byethost14.com"
+[NONE ][07:01:46] DISCONNECTED 10.1.0.4:34619, code: 1005, reason: "", name: ""
+[NONE ][07:02:53] CONNECTED 10.1.0.4:36142, origin: "http://radthiek.byethost14.com"
+[NONE ][07:04:53] DISCONNECTED 10.1.0.4:36142, code: 1001, reason: "", name: "{Pythor} DARK"
+[NONE ][07:07:43] >pl
+[NONE ][07:07:43] 
+Current players: 3
+[NONE ][07:07:43] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][07:07:43]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][07:07:43] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][07:07:43]    1007 | 10.1.0.4        | 6 |     4 |   8103 |   361,  -111 | CRaYzY Is BaCk      
+[NONE ][07:07:43]    1013 | 10.1.0.4        | 6 |    16 |    459 |  -136,   382 | {Pythor}            
+[NONE ][07:07:43]    1014 | 10.1.0.4        | 6 |     9 |    731 |  -649,  -616 | {seraj-1}           
+[NONE ][07:08:10] DISCONNECTED 10.1.0.4:53351, code: 1001, reason: "", name: "{Pythor} "
+[NONE ][07:13:13] CONNECTED 10.1.0.4:48016, origin: "http://radthiek.byethost14.com"
+[NONE ][07:19:25] DISCONNECTED 10.1.0.4:48016, code: 1001, reason: "", name: "{123} "
+[NONE ][07:20:23] DISCONNECTED 10.1.0.4:44957, code: 1005, reason: "", name: "CRaYzY Is BaCk "
+[NONE ][07:21:28] DISCONNECTED 10.1.0.4:34118, code: 1001, reason: "", name: "{seraj-1} "
+[NONE ][07:35:46] CONNECTED 10.1.0.4:44168, origin: "http://radthiek.byethost14.com"
+[NONE ][07:36:09] DISCONNECTED 10.1.0.4:44168, code: 1001, reason: "", name: "{123} "
+[NONE ][07:41:28] CONNECTED 10.1.0.4:50958, origin: "http://radthiek.byethost14.com"
+[NONE ][07:43:41] DISCONNECTED 10.1.0.4:50958, code: 1001, reason: "", name: "{123}  【≽ᗷᑌᖇᑎᗴᖇ__آإل"
+[NONE ][07:59:22] CONNECTED 10.1.0.4:43420, origin: "http://radthiek.byethost14.com"
+[NONE ][08:01:33] CONNECTED 10.1.0.4:45888, origin: "null"
+[NONE ][08:01:54] DISCONNECTED 10.1.0.4:45888, code: 1005, reason: "", name: "An unnamed cell"

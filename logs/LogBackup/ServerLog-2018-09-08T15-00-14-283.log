@@ -1,0 +1,144 @@
+=== Started 2018-09-08T10-36-11-464 ===
+[INFO ][10:36:11] 418 bad words loaded
+[WARN ][10:36:11] User account "Local Administrator" disabled
+[WARN ][10:36:11] User account "Local Moderator" disabled
+[WARN ][10:36:11] User account "Local User" disabled
+[INFO ][10:36:11] 0 user records loaded.
+[INFO ][10:36:11] 0 IP ban records loaded.
+[INFO ][10:36:11] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][10:36:11] WebSocket: ws
+[INFO ][10:36:11] Started stats server on port 1110
+[INFO ][10:36:11] Listening on port 1111
+[INFO ][10:36:11] Current game mode is Free For All
+[NONE ][10:36:11]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][10:36:19] CONNECTED 10.2.0.5:40528, origin: "http://radthiek.byethost14.com"
+[NONE ][10:36:49] CONNECTED 10.2.0.5:43070, origin: "http://radthiek.byethost14.com"
+[NONE ][10:39:53] CONNECTED 10.2.0.5:58551, origin: "http://radthiek.byethost14.com"
+[NONE ][10:39:58] DISCONNECTED 10.2.0.5:58551, code: 1001, reason: "", name: ""
+[NONE ][10:40:09] >pl
+[NONE ][10:40:09] 
+Current players: 2
+[NONE ][10:40:09] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:40:09]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][10:40:09] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:40:09]       1 | 10.2.0.5        | 6 |     1 |    489 | -5947, -1537 | ❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ     
+[NONE ][10:40:09]       2 | 10.2.0.5        | 6 |     1 |    404 | -3615,  1853 | Dz                  
+[NONE ][10:40:17] >mass 2 10000
+[NONE ][10:40:17] Set mass of Dz to 10000.000
+[NONE ][10:40:26] >mass 1 100000
+[NONE ][10:40:26] Set mass of ❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ to 100000.000
+[NONE ][10:44:27] DISCONNECTED 10.2.0.5:40528, code: 1005, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][10:44:50] CONNECTED 10.2.0.5:54619, origin: "http://radthiek.byethost14.com"
+[NONE ][10:46:33] DISCONNECTED 10.2.0.5:43070, code: 1001, reason: "", name: "Dz"
+[NONE ][10:46:52] CONNECTED 10.2.0.5:36490, origin: "http://radthiek.byethost14.com"
+[NONE ][10:48:43] DISCONNECTED 10.2.0.5:36490, code: 1001, reason: "", name: "Dz"
+[NONE ][10:53:50] DISCONNECTED 10.2.0.5:54619, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][10:54:15] CONNECTED 10.2.0.5:44495, origin: "http://radthiek.byethost14.com"
+[NONE ][10:54:22] CONNECTED 10.2.0.5:45027, origin: "http://radthiek.byethost14.com"
+[NONE ][10:54:28] DISCONNECTED 10.2.0.5:45027, code: 1001, reason: "", name: ""
+[NONE ][10:54:33] CONNECTED 10.2.0.5:45961, origin: "http://radthiek.byethost14.com"
+[NONE ][10:54:42] >pl
+[NONE ][10:54:42] 
+Current players: 2
+[NONE ][10:54:42] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:54:42]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                 
+[NONE ][10:54:42] ─────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:54:42]       6 | 10.2.0.5        | 6 |     1 |    389 |  6755, -3889 | ⎝༺ ڜڮڵطّـَ ༻⎠ツ     
+[NONE ][10:54:42]       8 | 10.2.0.5        | 6 |     1 |    427 |  5431,  1923 | ❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ     
+[NONE ][10:54:47] >mass 6 10000
+[NONE ][10:54:47] Set mass of ⎝༺ ڜڮڵطّـَ ༻⎠ツ to 10000.000
+[NONE ][10:54:52] >mass 8 1000
+[NONE ][10:54:52] Set mass of ❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ to 1000.000
+[NONE ][10:56:39] DISCONNECTED 10.2.0.5:44495, code: 1001, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][10:56:45] CONNECTED 10.2.0.5:56932, origin: "http://radthiek.byethost14.com"
+[NONE ][10:57:24] DISCONNECTED 10.2.0.5:45961, code: 1005, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][10:59:32] CONNECTED 10.2.0.5:42505, origin: "http://radthiek.byethost14.com"
+[NONE ][11:01:21] DISCONNECTED 10.2.0.5:42505, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][11:02:06] CONNECTED 10.2.0.5:55357, origin: "http://radthiek.byethost14.com"
+[NONE ][11:03:47] DISCONNECTED 10.2.0.5:55357, code: 1006, reason: "", name: "CRaYzY Is BaCk "
+[NONE ][11:04:23] DISCONNECTED 10.2.0.5:56932, code: 1005, reason: "", name: "⎝༺ ڜڮڵطّـَ ༻⎠ツ"
+[NONE ][11:09:18] CONNECTED 10.2.0.5:35425, origin: "http://www.radthiek.byethost16.com"
+[NONE ][11:09:43] DISCONNECTED 10.2.0.5:35425, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][11:12:59] CONNECTED 10.2.0.5:53682, origin: "http://radthiek.byethost14.com"
+[NONE ][11:13:12] DISCONNECTED 10.2.0.5:53682, code: 1001, reason: "", name: "doge"
+[NONE ][11:15:32] CONNECTED 10.2.0.5:38060, origin: "http://radthiek.byethost14.com"
+[NONE ][11:15:41] DISCONNECTED 10.2.0.5:38060, code: 1001, reason: "", name: "Dz"
+[NONE ][11:22:39] CONNECTED 10.2.0.5:45295, origin: "http://radthiek.byethost14.com"
+[NONE ][11:23:07] CONNECTED 10.2.0.5:47520, origin: "http://radthiek.ihostfull.com"
+[NONE ][11:23:17] DISCONNECTED 10.2.0.5:47520, code: 1001, reason: "", name: ""
+[NONE ][11:24:08] CONNECTED 10.2.0.5:52561, origin: "http://radthiek.ihostfull.com"
+[NONE ][11:25:42] CONNECTED 10.2.0.5:60639, origin: "http://radthiek.ihostfull.com"
+[NONE ][11:25:47] DISCONNECTED 10.2.0.5:60639, code: 1001, reason: "", name: "{13} "
+[NONE ][11:27:33] CONNECTED 10.2.0.5:41646, origin: "http://radthiek.ihostfull.com"
+[NONE ][11:27:40] DISCONNECTED 10.2.0.5:41646, code: 1001, reason: "", name: ""
+[NONE ][11:28:02] DISCONNECTED 10.2.0.5:45295, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][11:28:10] CONNECTED 10.2.0.5:44652, origin: "http://radthiek.byethost14.com"
+[NONE ][11:28:38] CONNECTED 10.2.0.5:46922, origin: "http://radthiek.ihostfull.com"
+[NONE ][11:28:59] DISCONNECTED 10.2.0.5:46922, code: 1001, reason: "", name: "{13} "
+[NONE ][11:29:19] CONNECTED 10.2.0.5:50214, origin: "http://radthiek.byethost14.com"
+[NONE ][11:29:42] DISCONNECTED 10.2.0.5:50214, code: 1001, reason: "", name: ""
+[NONE ][11:29:49] CONNECTED 10.2.0.5:52590, origin: "http://radthiek.byethost14.com"
+[NONE ][11:30:01] DISCONNECTED 10.2.0.5:52590, code: 1001, reason: "", name: "{13} 11"
+[NONE ][11:34:05] CONNECTED 10.2.0.5:45546, origin: "http://radthiek.byethost14.com"
+[NONE ][11:35:34] CONNECTED 10.2.0.5:52979, origin: "http://radthiek.byethost14.com"
+[NONE ][11:36:03] DISCONNECTED 10.2.0.5:45546, code: 1005, reason: "", name: "{wanted} "
+[NONE ][11:36:09] DISCONNECTED 10.2.0.5:52561, code: 1001, reason: "", name: "{13} "
+[NONE ][11:37:16] DISCONNECTED 10.2.0.5:44652, code: 1001, reason: "", name: "{13} "
+[NONE ][11:37:26] CONNECTED 10.2.0.5:33972, origin: "http://radthiek.byethost14.com"
+[NONE ][11:37:55] DISCONNECTED 10.2.0.5:52979, code: 1001, reason: "", name: "{Sin} ✌ETZes✞y♋"
+[NONE ][11:40:00] CONNECTED 10.2.0.5:46998, origin: "http://radthiek.byethost14.com"
+[NONE ][11:40:06] DISCONNECTED 10.2.0.5:46998, code: 1001, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][11:41:56] CONNECTED 10.2.0.5:56645, origin: "http://radthiek.byethost14.com"
+[NONE ][11:42:26] DISCONNECTED 10.2.0.5:56645, code: 1001, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][11:44:39] DISCONNECTED 10.2.0.5:33972, code: 1001, reason: "", name: "{wanted} "
+[NONE ][11:45:23] CONNECTED 10.2.0.5:45123, origin: "http://radthiek.byethost14.com"
+[NONE ][11:45:30] DISCONNECTED 10.2.0.5:45123, code: 1005, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][11:56:22] CONNECTED 10.2.0.5:39542, origin: "http://radthiek.byethost14.com"
+[NONE ][11:56:31] DISCONNECTED 10.2.0.5:39542, code: 1001, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][11:57:15] CONNECTED 10.2.0.5:44032, origin: "http://radthiek.byethost14.com"
+[NONE ][11:57:21] DISCONNECTED 10.2.0.5:44032, code: 1001, reason: "", name: "{wanted} "
+[NONE ][12:01:33] CONNECTED 10.2.0.5:36834, origin: "http://radthiek.byethost14.com"
+[NONE ][12:02:39] CONNECTED 10.2.0.5:42280, origin: "http://radthiek.byethost14.com"
+[NONE ][12:02:45] DISCONNECTED 10.2.0.5:42280, code: 1001, reason: "", name: ""
+[NONE ][12:02:58] CONNECTED 10.2.0.5:43913, origin: "http://radthiek.byethost14.com"
+[NONE ][12:03:12] DISCONNECTED 10.2.0.5:43913, code: 1005, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][12:03:14] CONNECTED 10.2.0.5:45163, origin: "http://radthiek.byethost14.com"
+[NONE ][12:03:21] DISCONNECTED 10.2.0.5:45163, code: 1001, reason: "", name: "doge"
+[NONE ][12:03:26] DISCONNECTED 10.2.0.5:36834, code: 1001, reason: "", name: ""
+[NONE ][12:03:32] CONNECTED 10.2.0.5:46780, origin: "http://radthiek.byethost14.com"
+[NONE ][12:04:01] DISCONNECTED 10.2.0.5:46780, code: 1001, reason: "", name: "doge"
+[NONE ][12:04:20] CONNECTED 10.2.0.5:50676, origin: "http://radthiek.byethost14.com"
+[NONE ][12:04:51] CONNECTED 10.2.0.5:53225, origin: "http://radthiek.byethost14.com"
+[NONE ][12:05:01] DISCONNECTED 10.2.0.5:53225, code: 1001, reason: "", name: "{wanted} 【≽⎝ฬคᑎ丅𝓔ᗪ_"
+[NONE ][12:05:26] CONNECTED 10.2.0.5:56127, origin: "http://radthiek.byethost14.com"
+[NONE ][12:05:37] DISCONNECTED 10.2.0.5:56127, code: 1001, reason: "", name: "doge"
+[NONE ][12:06:28] DISCONNECTED 10.2.0.5:50676, code: 1001, reason: "", name: "{wanted} "
+[NONE ][12:12:19] CONNECTED 10.2.0.5:33530, origin: "http://radthiek.byethost14.com"
+[NONE ][12:13:40] DISCONNECTED 10.2.0.5:33530, code: 1005, reason: "", name: "القرد "
+[NONE ][12:20:05] CONNECTED 10.2.0.5:42563, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:20:05] DISCONNECTED 10.2.0.5:42563, code: 1005, reason: "", name: ""
+[NONE ][12:20:05] CONNECTED 10.2.0.5:42607, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:20:47] DISCONNECTED 10.2.0.5:42607, code: 1001, reason: "", name: "doge"
+[NONE ][12:29:39] CONNECTED 10.2.0.5:33452, origin: "http://radthiek.byethost14.com"
+[NONE ][12:29:43] DISCONNECTED 10.2.0.5:33452, code: 1001, reason: "", name: ""
+[NONE ][12:35:25] CONNECTED 10.2.0.5:33399, origin: "http://radthiek.byethost14.com"
+[NONE ][12:35:37] DISCONNECTED 10.2.0.5:33399, code: 1001, reason: "", name: "5"
+[NONE ][12:35:44] CONNECTED 10.2.0.5:34906, origin: "http://radthiek.byethost14.com"
+[NONE ][12:35:57] DISCONNECTED 10.2.0.5:34906, code: 1001, reason: "", name: "WANTED"
+[NONE ][12:36:48] CONNECTED 10.2.0.5:39942, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:36:52] DISCONNECTED 10.2.0.5:39942, code: 1001, reason: "", name: ""
+[NONE ][12:37:31] CONNECTED 10.2.0.5:43453, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:37:40] DISCONNECTED 10.2.0.5:43453, code: 1001, reason: "", name: ""
+[NONE ][12:37:45] CONNECTED 10.2.0.5:44482, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:37:49] DISCONNECTED 10.2.0.5:44482, code: 1001, reason: "", name: ""
+[NONE ][12:39:09] CONNECTED 10.2.0.5:51084, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:39:12] DISCONNECTED 10.2.0.5:51084, code: 1005, reason: "", name: ""
+[NONE ][12:39:12] CONNECTED 10.2.0.5:51358, origin: "http://radthiek.ihostfull.com"
+[NONE ][12:40:23] DISCONNECTED 10.2.0.5:51358, code: 1005, reason: "", name: "WANTED"

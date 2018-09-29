@@ -1,0 +1,67 @@
+=== Started 2018-09-07T15-14-03-774 ===
+[INFO ][15:14:03] 418 bad words loaded
+[WARN ][15:14:03] User account "Local Administrator" disabled
+[WARN ][15:14:03] User account "Local Moderator" disabled
+[WARN ][15:14:03] User account "Local User" disabled
+[INFO ][15:14:03] 0 user records loaded.
+[INFO ][15:14:03] 0 IP ban records loaded.
+[INFO ][15:14:03] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:14:03] WebSocket: ws
+[INFO ][15:14:04] Started stats server on port 1110
+[INFO ][15:14:04] Listening on port 1111
+[INFO ][15:14:04] Current game mode is Free For All
+[NONE ][15:14:04]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:14:10] CONNECTED 10.2.0.5:35938, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:14:27] DISCONNECTED 10.2.0.5:35938, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][15:14:34] CONNECTED 10.2.0.5:44491, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:17:12] DISCONNECTED 10.2.0.5:44491, code: 1001, reason: "", name: "doge"
+[NONE ][15:17:17] CONNECTED 10.2.0.5:54060, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:17:17] DISCONNECTED 10.2.0.5:54060, code: 1006, reason: "", name: ""
+[NONE ][15:17:17] CONNECTED 10.2.0.5:54100, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:17:42] DISCONNECTED 10.2.0.5:54100, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][15:17:45] CONNECTED 10.2.0.5:36803, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:20:41] DISCONNECTED 10.2.0.5:36803, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][15:20:46] CONNECTED 10.2.0.5:53919, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:21:02] DISCONNECTED 10.2.0.5:53919, code: 1001, reason: "", name: "doge"
+[NONE ][15:22:55] CONNECTED 10.2.0.5:52250, origin: "http://radthiek.byethost14.com"
+[NONE ][15:22:57] DISCONNECTED 10.2.0.5:52250, code: 1001, reason: "", name: ""
+[NONE ][15:23:04] CONNECTED 10.2.0.5:56178, origin: "http://radthiek.byethost14.com"
+[NONE ][15:23:06] DISCONNECTED 10.2.0.5:56178, code: 1001, reason: "", name: ""
+[NONE ][15:25:46] CONNECTED 10.2.0.5:35168, origin: "http://www.radthiek.byethost16.com"
+[NONE ][15:26:01] DISCONNECTED 10.2.0.5:35168, code: 1001, reason: "", name: "11223"
+[NONE ][15:28:43] CONNECTED 10.2.0.5:49365, origin: "http://radthiek.byethost14.com"
+[NONE ][15:28:51] DISCONNECTED 10.2.0.5:49365, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][15:28:55] CONNECTED 10.2.0.5:50319, origin: "http://radthiek.byethost14.com"
+[NONE ][15:30:52] DISCONNECTED 10.2.0.5:50319, code: 1001, reason: "", name: "doge"
+[NONE ][15:30:55] CONNECTED 10.2.0.5:59926, origin: "http://radthiek.byethost14.com"
+[NONE ][15:30:56] DISCONNECTED 10.2.0.5:59926, code: 1005, reason: "", name: ""
+[NONE ][15:30:56] CONNECTED 10.2.0.5:59975, origin: "http://radthiek.byethost14.com"
+[NONE ][15:31:02] DISCONNECTED 10.2.0.5:59975, code: 1001, reason: "", name: ""
+[NONE ][15:31:05] CONNECTED 10.2.0.5:60724, origin: "http://radthiek.byethost14.com"
+[NONE ][15:31:05] DISCONNECTED 10.2.0.5:60724, code: 1005, reason: "", name: ""
+[NONE ][15:31:06] CONNECTED 10.2.0.5:60789, origin: "http://radthiek.byethost14.com"
+[NONE ][15:32:08] DISCONNECTED 10.2.0.5:60789, code: 1001, reason: "", name: ""
+[NONE ][15:32:11] CONNECTED 10.2.0.5:38039, origin: "http://radthiek.byethost14.com"
+[NONE ][15:32:12] DISCONNECTED 10.2.0.5:38039, code: 1005, reason: "", name: ""
+[NONE ][15:32:12] CONNECTED 10.2.0.5:38102, origin: "http://radthiek.byethost14.com"
+[NONE ][15:33:29] DISCONNECTED 10.2.0.5:38102, code: 1001, reason: "", name: ""
+[NONE ][15:33:33] CONNECTED 10.2.0.5:45199, origin: "http://radthiek.byethost14.com"
+[NONE ][15:33:54] DISCONNECTED 10.2.0.5:45199, code: 1001, reason: "", name: ""
+[NONE ][15:33:57] CONNECTED 10.2.0.5:47238, origin: "http://radthiek.byethost14.com"
+[NONE ][15:35:35] DISCONNECTED 10.2.0.5:47238, code: 1001, reason: "", name: ""
+[NONE ][15:35:38] CONNECTED 10.2.0.5:56410, origin: "http://radthiek.byethost14.com"
+[NONE ][15:41:00] DISCONNECTED 10.2.0.5:56410, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:41:02] CONNECTED 10.2.0.5:53761, origin: "http://radthiek.byethost14.com"
+[NONE ][15:51:16] DISCONNECTED 10.2.0.5:53761, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][15:51:17] CONNECTED 10.2.0.5:33824, origin: "http://radthiek.byethost14.com"
+[NONE ][15:51:41] DISCONNECTED 10.2.0.5:33824, code: 1001, reason: "", name: ""
+[NONE ][15:51:47] CONNECTED 10.2.0.5:42976, origin: "http://radthiek.byethost14.com"
+[NONE ][15:52:10] DISCONNECTED 10.2.0.5:42976, code: 1001, reason: "", name: "❦ↄɹ̤ᒪᓅ ™一❥๖ۣۜℱẋ"
+[NONE ][15:52:13] CONNECTED 10.2.0.5:51184, origin: "http://radthiek.byethost14.com"
+[NONE ][15:53:48] DISCONNECTED 10.2.0.5:51184, code: 1001, reason: "", name: "doge"
+[NONE ][15:55:41] CONNECTED 10.2.0.5:55343, origin: "http://radthiek.byethost14.com"
