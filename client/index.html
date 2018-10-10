@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=0.8, minimum-scale=0.8, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <meta name="description" content="Agar By RadThiek !">
+    <meta name="keywords" content="arab, arabio, arab.io, agar, 3rb.be, 3rb.io, 3rb, ogar, ogario, agar.io, ogar.io, shark, siniri, drb, seagull, pumba, m93b, مصعب, imajesty, im4jesty">
+    <meta name="robots" content="index, follow">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Radagar.gq</title>
+
+    <link id="favicon" rel="icon" type="image/png" href="assets/img/favicon.png" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/index.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="assets/js/app.js"></script>
+	<script src="assets/js/macro.js"></script>	
+	<script src="assets/js/macro2.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5062643110300598",
+          enable_page_level_ads: true
+     });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126614085-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126614085-2');
+</script>
+</head>
+
+<body>
+	<script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=2071873"></script>
+	<script type="text/javascript" src="//go.pub2srv.com/apu.php?zoneid=2071875"></script>
+	<script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=2071877"></script>
+	<script type="text/javascript" src="//go.onclasrv.com/apu.php?zoneid=2071870"></script>
+	<script src="//basepush.com/ntfc.php?p=2071884" data-cfasync="false" async></script>
+	<script async="async" data-cfasync="false" src="//tharbadir.com/2?z=2071885"></script>
+	    <!-- Audio -->
+    <audio id="split_cell" src="audio/split.mp3"></audio>
+    <audio id="spawn_cell" src="audio/spawn.mp3"></audio>
+</head>
+    <div id="overlays">
+        <div id="helloDialog"> 
+            <form role="form">
+                <div class="form-group">
+                    <br><img src="assets/img/logo.png"><br>
+					<center><a href="https://discord.gg/SpwyJDF"><span class="label label-info">اظغط هنا  للدخول سيرفر Fx!</span></a></center>
+					<br>
+                </div>
+
+                <div class="form-group">
+                    <input id="nick" class="form-control save" data-box-id="0" placeholder="Nick" maxlength="15" />
+					<input id="skin" class="form-control save" data-box-id="11" placeholder="Skin" /> <br>
+                    <div class="mb-10">
+                    <select id="gamemode" class="form-control" onchange="setserver($(this).val());" required>
+						<option value="rad-saludannyou179265.codeanyapp.com" disabled>FFA:</option>
+						<option value="41.100.185.234:1111">FFA (1)</option>
+						<option value="rad-saludannyou179265.codeanyapp.com:2222">FFA (2)</option>
+						<option value="rad-saludannyou179265.codeanyapp.com:3333">FFA (3)</option>
+						<option value="rad-saludannyou179265.codeanyapp.com:4444">FFA (4)</option>
+						<option value="rad-saludannyou179265.codeanyapp.com" disabled>MEGA SPLIT:</option>
+						<option value="rad-saludannyou179265.codeanyapp.com:5555">MEGA SPLIT (1)</option>
+					</select>
+					</div>
+
+                    <button type="button" id="play-btn" onclick="play(document.getElementById('skin').value, document.getElementById('nick').value); return false;" class="btn btn-play btn-primary btn-needs-server">ألـــعـــب</button>
+					<button onclick="$('#settingo, #instructions').toggle(); return false;" class="btn btn-info btn-settings" id="settings-btn"><i class="fas fa-cog"></i></span>
+                    </button>
+
+                </div>
+
+                <div id="settingo" class="checkbox" style="display:none;">
+					<button id="spectateBtn" onclick="spectate(); return false;" style="width: 100%" class="btn btn-warning btn-spectate btn-needs-server">Spectate</button>
+					<div style="margin: 6px;">
+						<h2>Settings</h2>
+						<ul style="list-style-type: none;display: flex;">
+						<div class="col-xs-6 firstSettings">
+						<li>
+							<input type="checkbox" id="checkbox1" class="save" data-box-id="1" onchange="setSkins(!$(this).is(':checked'));"><label for="checkbox1"> أخفاء السكنات</label></li>
+						<li>
+							<input type="checkbox" id="checkbox2" class="save" data-box-id="2" onchange="setNames(!$(this).is(':checked'));"><label for="checkbox2"> أخفاء الاسماء</label></li>
+						<li>
+							<input type="checkbox" id="checkbox3" class="save" data-box-id="3" onchange="setDarkTheme($(this).is(':checked'));"><label for="checkbox3"> ستايل داكن</label></li>
+						<li>
+							<input type="checkbox" id="checkbox4" class="save" data-box-id="4" onchange="setColors($(this).is(':checked'));"><label for="checkbox4"> بدون الوان</label></li>
+						<li>
+							<input type="checkbox" id="checkbox5" class="save" data-box-id="5" onchange="setShowMass($(this).is(':checked'));"><label for="checkbox5"> أضهار النقاط</label></li>
+						</div>
+						<div class="col-xs-6 secondSettings">
+						<!--<li>
+							<input type="checkbox" id="checkbox6" class="save" data-box-id="6" onchange="setChatHide($(this).is(':checked'));"><label for="checkbox6"> أخفاء الشات</label></li>-->
+						<li>
+							<input type="checkbox" id="checkbox7" class="save" data-box-id="7" onchange="setMinimap($(this).is(':checked'));"><label for="checkbox7"> أخفاء الخريطة</label></li>
+						<li>
+							<input type="checkbox" id="checkbox8" class="save" data-box-id="8" onchange="setShowGrid($(this).is(':checked'));"><label for="checkbox8"> أخفاء الخطوط</label></li>
+						<li>
+							<input type="checkbox" id="checkbox10" class="save" data-box-id="10" onchange="setBorders(!$(this).is(':checked'));"><label for="checkbox10"> أضهار الحدود</label></li>
+						<li>
+							<input type="checkbox" id="checkbox11" class="save" data-box-id="12" onchange="setLeaderBoard(!$(this).is(':checked'));"><label for="checkbox11"> أخفاء المتصدرين</label></li>
+						</div>
+						</ul> 
+                    </div>
+                </div>
+            </form>
+
+            <div id="instructions">
+				<br>
+                <hr>
+                <center>
+				<a href="https://publishers.propellerads.com/#/pub/auth/signUp?refId=TqwR"><img src="http://promo.propellerads.com/300x250-propellerads-monetize-traffic.gif" alt="PropellerAds"></a>
+				</center>
+            </div>
+            </form>
+
+            <hr>
+            <div id="footer">
+              <b> <a href="http://radagar.gq/credits">Credits</a> </b> - <b> <a href="http://radagar.gq/xagar.php">plus</a> </b> - <b> <a href="http://radagar.gq/skins.php">السكنات</a> </b>
+            </div>
+
+        </div>
+    </div>
+
+	
+	<div id="connecting" class="connecting">
+		<div class="connect1">
+			<center><img src="assets/img/load.gif">
+			<p> White Please !</p></center>
+		</div>
+	</div>
+	<div id="mobileStuff">
+		<div id="touchpad"></div>
+		<div id="touchCircle"></div>
+		<img src="assets/img/split.png" id="splitBtn">
+		<img src="assets/img/eject.png" id="ejectBtn">
+	</div>
+	
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <div class="chat_textbox"><input type="text" id="chat_textbox" placeholder="Press enter to chat!" maxlength="200" /></div>
+    <div style="font-family:'Tahoma'">&nbsp;</div>
+	<script src="assets/js/extra.js"></script>
+	</body>
+</html>

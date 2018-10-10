@@ -1,0 +1,73 @@
+
+#inPageModalBody {
+    height: 570px;
+    background: #000000;
+    opacity: 0.9;
+}
+
+
+.gallery {
+    width: 64%;
+    float: right;
+}
+.skin {
+    list-style-type: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+    max-width: 150px;
+}
+.circular {
+    width: 90px;
+    height: 90px;
+    border-radius: 40px;
+    -webkit-border-radius: 75px;
+    background-repeat: no-repeat;
+    -moz-border-radius: 40px;
+    border: solid 1px white;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.8);
+    -moz-box-shadow: 0 0 8px rgba(255, 255, 255, 0.8);
+    background-size: 90px 90px;
+    cursor: pointer;
+}
+.circular:hover {
+    box-shadow: 0 0 12px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 12px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 12px rgba(0, 0, 0, .8);
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.skin > .title {
+    cursor: pointer;
+    text-align: center;
+    color: white;
+}
+.skin > .title:hover {
+    text-shadow: 0 0 2px rgba(0, 0, 0, .8);
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.imgDescription {
+    text-align: center;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(29, 106, 154, 0.72);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: visibility opacity 0.2s;
+}
+.circular:hover .imgDescription {
+    visibility: visible;
+    opacity: 1;
+}

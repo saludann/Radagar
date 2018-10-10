@@ -1,0 +1,278 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+	overflow-x: hidden;
+	font-family: Tahoma;
+	-webkit-text-size-adjust: none;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+
+#overlays {
+    display:none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color:
+    rgba(0,0,0,0.5);
+    z-index: 200;
+}
+
+#title {
+    padding: 10px;
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#connecting {
+    display:none;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    bottom: 0; 
+    z-index: 100; 
+    background-color: rgba(0,0,0,0.5);
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+label {
+  position: relative;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 10px;
+  line-height: 36px;
+  cursor: pointer;
+}
+label::before {
+  content: " ";
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: block;
+  width: 24px;
+  height: 24px;
+  border: 2px solid #2e6da4;
+  border-radius: 4px;
+  z-index: -1;
+}
+input[type="radio"] + label::before {
+  border-radius: 18px;
+}
+
+input[type="checkbox"]:checked + label,
+input[type="radio"]:checked + label {
+  padding-left: 10px;
+  color: #fff;
+}
+input[type="checkbox"]:checked + label::before,
+input[type="radio"]:checked + label::before {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #2e6da4;
+}
+
+label,
+label::before {
+  -webkit-transition: .25s all ease;
+  -o-transition: .25s all ease;
+  transition: .25s all ease;
+}
+
+#helloDialog {
+    width: 400px;
+    background-color: #FFFFFF;
+    margin: 10px auto;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.settingo {
+	
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+	height: 30px;
+    left: 320px;
+    width: 400px;
+
+}
+#chat_textbox {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    background: rgba(0, 0, 0, .2);
+    border: 0px;
+    outline: none;
+    color: #FFF;
+    height: 30px;
+    text-indent: 12px;
+    left: 10px;
+    width: 300px;
+}
+
+#chat_textbox:focus {
+    background: rgba(0, 0, 0, .5);
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-top: -10px;
+}
+
+#play-btn {
+    width: 85%;
+    float: left;
+}
+
+#settings-btn {
+    width: 13%;
+    float: right;
+}
+
+#spectateBtn {
+    margin-top: 5px;
+}
+
+#mobileStuff {
+    display: none;
+}
+
+#touchpad, #touchCircle, #splitBtn, #ejectBtn {
+    position: fixed;
+}
+#touchpad, #splitBtn, #ejectBtn {
+    z-index: 2;
+}
+#touchpad {
+    opacity: 0.3;
+    width: 0;
+    height: 0;
+    left: 0;
+    bottom: 0;
+}
+#touchCircle {
+    width: 4vw;
+    height: 4vw;
+    border-radius: 2vw;
+    background: #f00;
+    opacity: 0.3;
+    z-index: 3;
+}
+#splitBtn, #ejectBtn {
+    width: 12vw;
+    height: 12vw;
+    border-radius: 8vw;
+    background: #777;
+    opacity: 0.5;
+}
+#splitBtn {
+    right: 18vw;
+    bottom: 0;
+}
+#ejectBtn {
+    bottom: 18vw;
+    right: 0;
+}
+
+#nick {
+    width: 65%;
+    float: left;
+}
+
+#skin {
+    width: 33%;
+    float: right;
+}
+
+.checkbox label {
+    margin-right: 10px;
+    padding-left: 28px;
+    /* font-weight: bold; */
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.connect1 {
+	width: 450px;
+	background-color: #FFFFFF;
+	margin: 100px auto;
+	border-radius: 15px;
+	padding: 5px 15px 5px 15px;
+}	
+
+.connecting {
+	display:none;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 100;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.loader {
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 2s linear infinite;
+}
+
+.center {
+    display: table;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.dropdown-menu>li>label {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}

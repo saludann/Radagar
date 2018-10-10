@@ -1,0 +1,436 @@
+/* GLOBAL */
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* IDs */
+
+#overlays {
+    display:none; 
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    bottom: 0; 
+    background-color: rgba(0,0,0,0.5); 
+    z-index: 200;
+}
+
+#title {
+    padding: 0px;
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+	background-color: #555;
+}
+
+#can1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+	background-color: #404;
+}
+
+
+#connecting {
+	opacity : 0.7;
+    display:none;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    bottom: 0; 
+    z-index: 100; 
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+
+
+
+#helloDialog {
+	opacity : 1;
+    width: 400px;
+	border: 1px solid #fff;
+    margin: 10px auto;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+
+#theme {
+	overflow: auto;
+	max-height: 151.7px;
+	width: 365px;
+
+}
+
+#leftPanel {
+    width: 250px;
+	height: 350px;
+    background-color: #00000073;
+    border: 1px solid #fff;
+    margin: 10px auto;
+    border-radius: 0px;
+    padding: 5px 15px 5px 15px;
+    position: absolute;
+    top: 36%;
+    left: -43%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#rightPanel {
+    width: 250px;
+	height: 350px;
+    background-color: #00000073;
+    border: 1px solid #fff;
+    margin: 10px auto;
+    border-radius: 0px;
+    padding: 5px 15px 5px 15px;
+    position: absolute;
+    top: 36%;
+    left: 143%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#chat_textbox {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    background-color: #00000073;
+    border: 1px solid #fff;
+    border: 0px;
+    outline: none;
+    color: #FFF;
+    height: 30px;
+    text-indent: 12px;
+    left: 10px;
+    width: 300px;
+}
+
+#chat_textbox:focus {
+    background: rgba(0, 0, 0, .5);
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+
+#nick {
+    width: 100%;
+    background-color: #3e3e3e;
+    border: 1px solid #fff;
+    color: white;
+    float: left;
+
+}
+
+
+
+#skin {
+    width: 27%;
+    float: right;
+    background-color: #00000073;
+    border: 1px solid #fff;
+    color: white;
+}
+
+
+#sknimg {
+    margin-bottom: 10px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    box-shadow: 0px 2px 3px rgb(0, 0, 0);
+    margin-left: 14px;
+}
+
+
+
+
+#gamemode {
+	margin-top: 5px;
+    width: 45%;
+    border: 1px solid #fff;
+    float: left;
+}
+
+#clgamemode {
+	margin-top: 5px;
+    width: 45%;
+    border: 1px solid #fff;
+    float: right;
+}
+
+
+#othermode {
+	margin-top: 5px;
+    width: 45%;
+    border: 1px solid #fff;
+    float: right;
+}
+
+#play-btn {
+    width: 100%;
+    margin-top: 7px;
+	margin-bottom: 7px;
+    margin-right: 4px;
+    border: 1px solid #ffffff;
+}
+
+#settings-btn {
+    width: 17%;
+    margin-left: 1px;
+    background-color: #00000073;
+    border: 0.8px solid #fff;
+}
+
+
+#sking {
+    width: 40%;
+    float: right;
+    background-color: #b16b6b00;
+    border: 1px solid #fff;
+}
+
+
+#spectate-btn {
+	width: 40%;
+    margin-top: 0px;
+    float: left;
+    margin-right: 4px;
+    background-color: #b16b6b00;
+    border: 1px solid #fff;
+}
+
+
+
+
+#buybot {
+	width: 40%;
+    margin-top: 0px;
+    float: left;
+    margin-right: 4px;
+    background-color: #00000073;
+    border: 1px solid #fff;
+}
+
+
+#skinupload {
+    width: 40%;
+    float: right;
+    background-color: #3e0101;
+    border: 1px solid #fff;
+}
+
+
+#sknimgu {
+    margin-top: 1px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    box-shadow: 0px 2px 3px rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+}
+
+
+#btnu {
+    width: 35%;
+    font-size: 1.2em;
+    background-color: #00000073;
+    border: 1px solid #580000;
+	border-radius: 15px;
+    color: white;
+    float: right;
+    margin: 1px 111
+}
+
+#labelu {
+    margin-top: 30px;
+	width: 103px;
+	border: 1px none red;
+	border-radius: 50px;
+	height: 105px;
+	margin: 10px 123
+}
+
+
+#labelu1 {
+    margin-top: 30px;
+	width: 103px;
+	border: 1px solid red;
+	border-radius: 50px;
+	height: 105px;
+	
+}
+
+
+/* CLASSES */
+
+.checkbox label {
+    margin-right: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.loader {
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 2s linear infinite;
+}
+
+.center {
+    display: table;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+/* menu */
+.tab button {
+    background-color: inherit;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 1px 30px;
+    transition: 0.3s;
+    font-size: 14px;
+  	border-bottom: 1px solid #ffffffd1;
+}
+
+
+.tab button:hover {
+  	border-bottom: 2px solid #580000;
+}
+
+
+.tab button.active {
+  	border-bottom: 2px solid #580000;
+}
+
+
+.tabcontent {
+	margin-top: 5px;
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+
+
+
+
+label {
+  line-height: 190%;
+  margin-top: 15px;
+  outline-style: ;
+  transition: all .6s;
+  margin-left: 16px;
+  border: 1.5px solid white;
+  border-radius: 15px;
+  width: 90px;
+
+}
+
+.hiddenCB div {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hiddenCB input[type="checkbox"],
+.hiddenCB input[type="radio"] {
+  display: none;
+  
+}
+
+.hiddenCB label {
+  
+  cursor: pointer;
+}
+
+.hiddenCB input[type="checkbox"]+label:hover{
+  border: 1px solid #580000
+}
+
+.hiddenCB input[type="checkbox"]:checked+label {
+  background: #00ff0000;
+  border: 1.5px solid green;
+}
+
+.hiddenCB input[type="checkbox"]:checked+label:hover{
+  background: rgba(0, 128, 128, 0, .7);
+}
+
+
+
+
+
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+#inPageModalBody {
+	max-height: 7.0in;
+	background-color: #000033;
+	overflow: auto;
+	opacity : 0.7;
+
+
+
+
+option {
+    background: rgba(0, 0, 0, 0.43); 
+
+
+}
+
+
+option[selected="selected"] {
+    color: #ad0000;
+}
